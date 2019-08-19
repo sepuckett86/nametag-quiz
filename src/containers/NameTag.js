@@ -5,8 +5,8 @@ import TextSelector from '../components/TextSelector';
 
 export default class NameTag extends Component {
   state = {
-    color: 'black',
-    backgroundColor: 'pink',
+    color: '#000000',
+    backgroundColor: '#ffe0f8',
     text: ''
   }
 
