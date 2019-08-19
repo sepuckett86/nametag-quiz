@@ -6,6 +6,7 @@ exports[`ColorSelector component renders App 1`] = `
     Font Color: 
     <input
       name="color"
+      onChange={[Function]}
       type="color"
       value="#000000"
     />
@@ -14,6 +15,7 @@ exports[`ColorSelector component renders App 1`] = `
     Background Color: 
     <input
       name="backgroundColor"
+      onChange={[Function]}
       type="color"
       value="#000000"
     />

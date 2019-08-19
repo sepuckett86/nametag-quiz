@@ -5,6 +5,7 @@ exports[`TextSelector component renders TextSelector 1`] = `
   Text: 
   <input
     name="text"
+    onChange={[Function]}
     type="text"
     value="Some text here"
   />

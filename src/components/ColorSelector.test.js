@@ -8,6 +8,7 @@ describe('ColorSelector component', () => {
       <ColorSelector 
         color="#000000"
         backgroundColor="#000000"
+        handleChange={() => {}}
       />
     );
     expect(wrapper).toMatchSnapshot();

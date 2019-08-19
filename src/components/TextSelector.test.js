@@ -7,6 +7,7 @@ describe('TextSelector component', () => {
     const wrapper = shallow(
       <TextSelector 
         text="Some text here"
+        handleChange={() => {}}
       />
     );
     expect(wrapper).toMatchSnapshot();
