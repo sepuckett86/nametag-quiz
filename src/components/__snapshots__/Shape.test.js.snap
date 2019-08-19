@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Shape component renders App 1`] = `
+<Fragment>
+  <div
+    style={
+      Object {
+        "backgroundColor": "#000000",
+        "border": "2px black solid",
+        "height": "150px",
+        "textAlign": "center",
+        "width": "300px",
+      }
+    }
+  >
+    <p
+      style={
+        Object {
+          "color": "#000000",
+        }
+      }
+    >
+      Some text here
+    </p>
+  </div>
+</Fragment>
+`;
