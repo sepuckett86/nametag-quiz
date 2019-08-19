@@ -8,9 +8,10 @@ function Shape({ text, color, backgroundColor }) {
 
   const backgroundStyles = {
     backgroundColor,
-    width: '100px',
-    height: '100px',
-    border: '2px black solid'
+    width: '300px',
+    height: '150px',
+    border: '2px black solid',
+    textAlign: 'center'
   };
 
   return (
