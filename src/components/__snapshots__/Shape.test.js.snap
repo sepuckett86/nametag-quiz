@@ -7,8 +7,9 @@ exports[`Shape component renders App 1`] = `
       Object {
         "backgroundColor": "#000000",
         "border": "2px black solid",
-        "height": "100px",
-        "width": "100px",
+        "height": "150px",
+        "textAlign": "center",
+        "width": "300px",
       }
     }
   >
