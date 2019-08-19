@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextSelector component renders TextSelector 1`] = `
+<label>
+  Text: 
+  <input
+    name="text"
+    type="text"
+    value="Some text here"
+  />
+</label>
+`;
